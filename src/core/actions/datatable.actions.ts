@@ -1,0 +1,1 @@
+export type IDatatableAction = { type: "ON_CLICK_ROW"; data: any };
